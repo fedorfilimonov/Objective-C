@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		3200E96E258202F100F39A83 /* lesson2.m in Sources */ = {isa = PBXBuildFile; fileRef = 3200E96D258202F100F39A83 /* lesson2.m */; };
 		3271A72B258135B20003758C /* lesson1.m in Sources */ = {isa = PBXBuildFile; fileRef = 3271A72A258135B20003758C /* lesson1.m */; };
+		3279EE38258A56FE000ADF5A /* lesson3.m in Sources */ = {isa = PBXBuildFile; fileRef = 3279EE37258A56FE000ADF5A /* lesson3.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -27,6 +28,7 @@
 		3200E96D258202F100F39A83 /* lesson2.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lesson2.m; sourceTree = "<group>"; };
 		3271A727258135B20003758C /* Simple Objective-C */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; includeInIndex = 0; path = "Simple Objective-C"; sourceTree = BUILT_PRODUCTS_DIR; };
 		3271A72A258135B20003758C /* lesson1.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lesson1.m; sourceTree = "<group>"; };
+		3279EE37258A56FE000ADF5A /* lesson3.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = lesson3.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -61,6 +63,7 @@
 			children = (
 				3271A72A258135B20003758C /* lesson1.m */,
 				3200E96D258202F100F39A83 /* lesson2.m */,
+				3279EE37258A56FE000ADF5A /* lesson3.m */,
 			);
 			path = "Simple Objective-C";
 			sourceTree = "<group>";
@@ -123,6 +126,7 @@
 			files = (
 				3200E96E258202F100F39A83 /* lesson2.m in Sources */,
 				3271A72B258135B20003758C /* lesson1.m in Sources */,
+				3279EE38258A56FE000ADF5A /* lesson3.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
